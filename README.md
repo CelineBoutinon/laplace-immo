@@ -1,7 +1,7 @@
 ![Alt text](LaplaceLogoSmall.png)
 
 # REALISER UNE BASE DE DONNEES IMMOBILIERES AVEC MYSQL
-Projet realisé en janvier 2023 dans le cadre de ma formation Data Analyst avec OpenClassrooms.
+Projet realisé en janvier 2023 dans le cadre de ma formation Data Analyst avec l'ENSAE-ENSAI Formation Continue (Cepe)/OpenClassrooms.
 
 ## Objectif du projet
 Ce projet a pour objectif de constituer une base de données immobilières en croisant des données issues de plusieurs sources publiques françaises, à savoir le fichier des demandes de valeurs foncières, le référentiel géographique des régions et le fichier des recensements de population de l’INSEE.
